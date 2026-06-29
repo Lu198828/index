@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Blog da Professora Luciana</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<div class="logo">
+
+📖 <span>Blog da Professora Luciana</span>
+
+</div>
+
+<nav>
+
+<a href="#">Início</a>
+
+<a href="#">Aulas</a>
+
+<a href="#">Projetos</a>
+
+<a href="#">Tecnologia</a>
+
+<a href="#">Contato</a>
+
+</nav>
+
+</header>
+
+<section class="hero">
+
+<div class="hero-text">
+
+<h1>Transformando Conhecimento em Tecnologia</h1>
+
+<h3>
+Colégio Estadual Leonardo Francisco Nogueira
+</h3>
+
+<p>
+
+Pinhalão • Paraná
+
+</p>
+
+<p>
+
+Bem-vindo ao meu espaço dedicado à educação, inovação,
+programação, robótica e Inteligência Artificial.
+
+Aqui você encontrará projetos desenvolvidos com os alunos,
+atividades, materiais de apoio e conteúdos que unem criatividade,
+tecnologia e aprendizagem.
+
+</p>
+
+<a href="#" class="botao">
+
+Conheça meus projetos
+
+</a>
+
+</div>
+
+<div class="hero-image">
+
+<img src="images/luciana.jpg" alt="Professora Luciana">
+
+</div>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+
+<div class="icone">
+
+💻
+
+</div>
+
+<h2>Educação e Tecnologia</h2>
+
+<p>
+
+Aprender utilizando tecnologia torna as aulas mais dinâmicas,
+interativas e significativas.
+
+</p>
+
+<a href="#">Saiba mais</a>
+
+</div>
+
+<div class="card">
+
+<div class="icone">
+
+&lt;/&gt;
+
+</div>
+
+<h2>Programação</h2>
+
+<p>
+
+HTML, CSS e JavaScript são as primeiras ferramentas para construir
+sites modernos e criativos.
+
+</p>
+
+<a href="#">Ver atividades</a>
+
+</div>
+
+<div class="card">
+
+<div class="icone">
+
+🤖
+
+</div>
+
+<h2>Projetos de Robótica e IA</h2>
+
+<p>
+
+Projetos voltados à inovação, sustentabilidade e concursos
+educacionais.
+
+</p>
+
+<a href="#">Conhecer</a>
+
+</div>
+
+<div class="card">
+
+<div class="icone">
+
+👨‍👩‍👧‍👦
+
+</div>
+
+<h2>Aprendizagem Colaborativa</h2>
+
+<p>
+
+Desenvolvendo criatividade, comunicação,
+liderança e resolução de problemas.
+
+</p>
+
+<a href="#">Ler mais</a>
+
+</div>
+
+</section>
+
+<section class="destaque">
+
+<div class="texto">
+
+<h2>
+
+Tecnologia • Criatividade • Aprendizagem • Futuro
+
+</h2>
+
+<p>
+
+Meu objetivo é incentivar os estudantes a aprender
+fazendo, desenvolvendo projetos reais que despertem
+o interesse pela ciência, programação, robótica,
+inteligência artificial e inovação.
+
+</p>
+
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026
+
+<br>
+
+Professora Luciana
+
+<br>
+
+Colégio Estadual Leonardo Francisco Nogueira
+
+<br>
+
+Pinhalão • Paraná
+
+</p>
+
+</footer>
+
+</body>
+
+</html>
